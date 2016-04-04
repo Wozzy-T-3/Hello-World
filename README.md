@@ -1,5 +1,5 @@
 # Hello-World
-Tutorial Demoonstration Repository Example
+Tutorial Demonstration Repository Example
 Hi I'm kinda new areound these parts
 
 if (pinFiveInput < 500)
